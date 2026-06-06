@@ -26,7 +26,8 @@ Github repository structure
 This is my feedback ...
 Nice Session
 As I am from non programming background, this session helped me a lot.
----
+
 ---
 
 You can write your personal notes here; they will not be parsed and are for your own reference.
+I will continue to learn more about linux,github etc.
