@@ -34,3 +34,4 @@ Working with HTTP requests, APIs, FastAPI, browser developer tools, and curl hel
 ---
 
 You can write your personal notes here; they will not be parsed and are for your own reference.
+important lesson was that debugging becomes much easier when I know how to inspect requests, responses, headers, and status codes
