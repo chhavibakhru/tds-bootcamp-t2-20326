@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-3 ---
-I already knew ...
+I already knew -
 Basics of Python Programming,
 Linux,
 Github,etc.
@@ -19,7 +19,7 @@ Github,etc.
 - [X] I know the difference between a `.py` script and a `.ipynb` notebook, and when to use each
 
 --- After Day-3 ---
-I learned these things as well, apart from the checklist ...
+I learned these things as well, apart from the checklist ... -
 I learned how the PATH environment variable works and  I learned to inspect files using commands such as cat, head, tail, grep, and wc, and to edit files using nano.
 
 --- Feedback (Suggestions for the TDS Team) ---
