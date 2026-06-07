@@ -5,7 +5,9 @@
 I already knew ...
 About Linux,
 Github,
-VS Code
+VS Code,etc.
+--- 
+
 
 ## Day-2 Checklist
 
