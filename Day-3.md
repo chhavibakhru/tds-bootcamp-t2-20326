@@ -1,11 +1,15 @@
 ---
 ---
 
+---
+---
+
 --- Before Day-3 ---
-I already knew -
-Basics of Python Programming,
-Linux,
-Github,etc.
+I already knew ...
+Python,
+VS Code,
+Linux,etc.
+--- 
 
 ## Day-3 Checklist
 
