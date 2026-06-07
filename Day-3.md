@@ -30,3 +30,4 @@ This course significantly improved my confidence in working with Linux, Python, 
 ---
 
 You can write your personal notes here; they will not be parsed and are for your own reference.
+I now feel more comfortable approaching new tools, reading documentation, and solving problems without needing step-by-step instructions.
