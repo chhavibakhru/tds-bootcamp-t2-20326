@@ -4,6 +4,8 @@
 --- Before Day-1 ---
 I already knew ...
 python
+--- 
+
 
 ## Day-1 Checklist
 
@@ -21,12 +23,13 @@ I learned these things as well, apart from the checklist ...
 uv,
 WSL,
 Github repository structure 
+---
 
 --- Feedback (Suggestions for the TDS Team) ---
 This is my feedback ...
 Nice Session
 As I am from non programming background, this session helped me a lot.
-
+---
 ---
 
 You can write your personal notes here; they will not be parsed and are for your own reference.
